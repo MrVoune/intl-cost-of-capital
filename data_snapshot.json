@@ -1,0 +1,915 @@
+{
+ "betas": {
+  "values": {
+   "Advertising": 0.930085673859911,
+   "Aerospace/Defense": 0.846668742124111,
+   "Air Transport": 0.7040501862693873,
+   "Apparel": 0.7579820882045375,
+   "Auto & Truck": 1.2690329072913427,
+   "Auto Parts": 1.0217137832780625,
+   "Bank (Money Center)": 0.3410587595479105,
+   "Banks (Regional)": 0.2865156418030888,
+   "Beverage (Alcoholic)": 0.6131715419678557,
+   "Beverage (Soft)": 0.5556711918551647,
+   "Broadcasting": 0.28636169661672445,
+   "Brokerage & Investment Banking": 0.5808487698048416,
+   "Building Materials": 0.9301623477287291,
+   "Business & Consumer Services": 0.7735875598670026,
+   "Cable TV": 0.3523921209643926,
+   "Chemical (Basic)": 0.5800328658623819,
+   "Chemical (Diversified)": 0.36655193179254153,
+   "Chemical (Specialty)": 0.7922271711710575,
+   "Coal & Related Energy": 1.0165349872490315,
+   "Computer Services": 0.9155102559970569,
+   "Computers/Peripherals": 1.3050624188250832,
+   "Construction Supplies": 1.0160678372067562,
+   "Diversified": 0.7889302024061987,
+   "Drugs (Biotechnology)": 1.034128692045902,
+   "Drugs (Pharmaceutical)": 0.8862112018778732,
+   "Education": 0.6601955817730791,
+   "Electrical Equipment": 1.1477945494288007,
+   "Electronics (Consumer & Office)": 0.8298525821858579,
+   "Electronics (General)": 0.8973653021365886,
+   "Engineering/Construction": 1.094912241925567,
+   "Entertainment": 0.7371838269272858,
+   "Environmental & Waste Services": 0.814469065497658,
+   "Farming/Agriculture": 0.8130198178522071,
+   "Financial Svcs. (Non-bank & Insurance)": 0.3188823716863237,
+   "Food Processing": 0.45741810112318915,
+   "Food Wholesalers": 0.6408819228030607,
+   "Furn/Home Furnishings": 0.6247880689027374,
+   "Green & Renewable Energy": 0.46330103394106914,
+   "Healthcare Products": 0.829063339182968,
+   "Healthcare Support Services": 0.6889158973179456,
+   "Heathcare Information and Technology": 0.9913008450033202,
+   "Homebuilding": 0.7849604569802948,
+   "Hospitals/Healthcare Facilities": 0.5517295035260499,
+   "Hotel/Gaming": 0.8322513645728964,
+   "Household Products": 0.7178159032286779,
+   "Information Services": 0.7371769598623608,
+   "Insurance (General)": 0.5636395230036526,
+   "Insurance (Life)": 0.4271563388858468,
+   "Insurance (Prop/Cas.)": 0.43565645519640217,
+   "Investments & Asset Management": 0.5297158729912839,
+   "Machinery": 0.8679764970807725,
+   "Metals & Mining": 0.963642813760502,
+   "Office Equipment & Services": 0.980603950937201,
+   "Oil/Gas (Integrated)": 0.2712192455295165,
+   "Oil/Gas (Production and Exploration)": 0.562759894026207,
+   "Oil/Gas Distribution": 0.4650757918129057,
+   "Oilfield Svcs/Equip.": 0.7430388962534321,
+   "Packaging & Container": 0.7230693503118022,
+   "Paper/Forest Products": 0.7215533176034462,
+   "Power": 0.31002381536217716,
+   "Precious Metals": 0.7932430128835662,
+   "Publishing & Newspapers": 0.47730712965508676,
+   "R.E.I.T.": 0.39290436962561487,
+   "Real Estate (Development)": 0.4782878873556669,
+   "Real Estate (General/Diversified)": 0.57785949402086,
+   "Real Estate (Operations & Services)": 0.8148915126864962,
+   "Recreation": 0.6950913817523879,
+   "Reinsurance": 0.43840910722706555,
+   "Restaurant/Dining": 0.767419655502052,
+   "Retail (Automotive)": 0.6984325625385885,
+   "Retail (Building Supply)": 1.3070143643127536,
+   "Retail (Distributors)": 0.7826829040437357,
+   "Retail (General)": 0.7599637023048608,
+   "Retail (Grocery and Food)": 0.804751465127235,
+   "Retail (REITs)": 0.4361730155949174,
+   "Retail (Special Lines)": 0.9487830646597303,
+   "Rubber& Tires": 0.14353369356004206,
+   "Semiconductor": 1.48925822268736,
+   "Semiconductor Equip": 1.3480733569303134,
+   "Shipbuilding & Marine": 0.644012905556584,
+   "Shoe": 0.9336746513867349,
+   "Software (Entertainment)": 1.0127806880948524,
+   "Software (Internet)": 1.5460643073174678,
+   "Software (System & Application)": 1.225391886520662,
+   "Steel": 0.9035142702396447,
+   "Telecom (Wireless)": 0.3872590553991877,
+   "Telecom. Equipment": 0.8634913488563035,
+   "Telecom. Services": 0.3654342533759909,
+   "Tobacco": 0.6775903166712723,
+   "Transportation": 0.67531101084817,
+   "Transportation (Railroads)": 0.8069481235657714,
+   "Trucking": 0.8504180575613394,
+   "Utility (General)": 0.14861284002770483,
+   "Utility (Water)": 0.281177328534438
+  },
+  "as_of": "data updated 2026-01-05",
+  "retrieved": "2026-11-10 02:14 UTC",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/datasets/betas.xls"
+ },
+ "spread": {
+  "value": 0.0111,
+  "as_of": "page has no date stamp",
+  "retrieved": "2026-11-10 02:14 UTC",
+  "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ratings.html"
+ },
+ "tax": {
+  "by_iso": {
+   "SYC": [
+    0.25,
+    2024
+   ],
+   "AIA": [
+    0.0,
+    2024
+   ],
+   "MLT": [
+    0.35,
+    2024
+   ],
+   "ATG": [
+    0.25,
+    2024
+   ],
+   "MCO": [
+    0.25,
+    2024
+   ],
+   "BHR": [
+    0.0,
+    2024
+   ],
+   "SLE": [
+    0.25,
+    2024
+   ],
+   "MRT": [
+    0.25,
+    2024
+   ],
+   "AGO": [
+    0.25,
+    2024
+   ],
+   "JOR": [
+    0.2,
+    2024
+   ],
+   "VGB": [
+    0.0,
+    2024
+   ],
+   "JAM": [
+    0.25,
+    2024
+   ],
+   "COK": [
+    0.2,
+    2024
+   ],
+   "PAN": [
+    0.25,
+    2024
+   ],
+   "CYM": [
+    0.0,
+    2024
+   ],
+   "KAZ": [
+    0.2,
+    2024
+   ],
+   "BMU": [
+    0.0,
+    2024
+   ],
+   "DJI": [
+    0.25,
+    2024
+   ],
+   "AZE": [
+    0.2,
+    2024
+   ],
+   "SAU": [
+    0.2,
+    2024
+   ],
+   "IMN": [
+    0.0,
+    2024
+   ],
+   "MNG": [
+    0.25,
+    2024
+   ],
+   "THA": [
+    0.2,
+    2024
+   ],
+   "CIV": [
+    0.25,
+    2024
+   ],
+   "JEY": [
+    0.0,
+    2024
+   ],
+   "BLZ": [
+    0.0,
+    2024
+   ],
+   "PHL": [
+    0.25,
+    2024
+   ],
+   "VNM": [
+    0.2,
+    2024
+   ],
+   "DMA": [
+    0.25,
+    2024
+   ],
+   "TCA": [
+    0.0,
+    2024
+   ],
+   "CHN": [
+    0.25,
+    2024
+   ],
+   "LBR": [
+    0.25,
+    2024
+   ],
+   "GGY": [
+    0.0,
+    2024
+   ],
+   "BHS": [
+    0.0,
+    2024
+   ],
+   "CMR": [
+    0.33,
+    2024
+   ],
+   "BRN": [
+    0.185,
+    2024
+   ],
+   "BRB": [
+    0.09,
+    2024
+   ],
+   "BRA": [
+    0.34,
+    2024
+   ],
+   "BFA": [
+    0.275,
+    2024
+   ],
+   "CPV": [
+    0.22440000000000002,
+    2024
+   ],
+   "DOM": [
+    0.27,
+    2024
+   ],
+   "EGY": [
+    0.225,
+    2024
+   ],
+   "SWZ": [
+    0.275,
+    2024
+   ],
+   "GIB": [
+    0.125,
+    2024
+   ],
+   "GRL": [
+    0.265,
+    2024
+   ],
+   "HKG": [
+    0.165,
+    2024
+   ],
+   "IND": [
+    0.25170000000000003,
+    2024
+   ],
+   "LIE": [
+    0.125,
+    2024
+   ],
+   "MAC": [
+    0.12,
+    2024
+   ],
+   "UZB": [
+    0.15,
+    2024
+   ],
+   "MYS": [
+    0.24,
+    2024
+   ],
+   "ARG": [
+    0.3,
+    2024
+   ],
+   "BEN": [
+    0.3,
+    2024
+   ],
+   "COD": [
+    0.3,
+    2024
+   ],
+   "GAB": [
+    0.3,
+    2024
+   ],
+   "HTI": [
+    0.3,
+    2024
+   ],
+   "HND": [
+    0.3,
+    2024
+   ],
+   "KEN": [
+    0.3,
+    2024
+   ],
+   "MSR": [
+    0.3,
+    2024
+   ],
+   "NGA": [
+    0.3,
+    2024
+   ],
+   "LCA": [
+    0.3,
+    2024
+   ],
+   "SEN": [
+    0.3,
+    2024
+   ],
+   "LKA": [
+    0.3,
+    2024
+   ],
+   "TTO": [
+    0.3,
+    2024
+   ],
+   "ZMB": [
+    0.3,
+    2024
+   ],
+   "PNG": [
+    0.3,
+    2024
+   ],
+   "MAR": [
+    0.32,
+    2024
+   ],
+   "URY": [
+    0.25,
+    2024
+   ],
+   "PAK": [
+    0.29,
+    2024
+   ],
+   "GEO": [
+    0.15,
+    2024
+   ],
+   "ALB": [
+    0.15,
+    2024
+   ],
+   "QAT": [
+    0.1,
+    2024
+   ],
+   "PRY": [
+    0.1,
+    2024
+   ],
+   "MKD": [
+    0.1,
+    2024
+   ],
+   "BGR": [
+    0.1,
+    2024
+   ],
+   "MDV": [
+    0.15,
+    2024
+   ],
+   "NAM": [
+    0.32,
+    2024
+   ],
+   "ABW": [
+    0.22,
+    2024
+   ],
+   "AND": [
+    0.1,
+    2024
+   ],
+   "BWA": [
+    0.22,
+    2024
+   ],
+   "CUW": [
+    0.22,
+    2024
+   ],
+   "IDN": [
+    0.22,
+    2024
+   ],
+   "VCT": [
+    0.28,
+    2024
+   ],
+   "GRD": [
+    0.28,
+    2024
+   ],
+   "BIH": [
+    0.1,
+    2024
+   ],
+   "MUS": [
+    0.15,
+    2024
+   ],
+   "KWT": [
+    0.15,
+    2024
+   ],
+   "COG": [
+    0.28,
+    2024
+   ],
+   "TGO": [
+    0.27,
+    2024
+   ],
+   "ARE": [
+    0.09,
+    2024
+   ],
+   "ARM": [
+    0.18,
+    2024
+   ],
+   "HRV": [
+    0.18,
+    2024
+   ],
+   "MNE": [
+    0.15,
+    2024
+   ],
+   "FRO": [
+    0.18,
+    2024
+   ],
+   "UKR": [
+    0.18,
+    2024
+   ],
+   "ZAF": [
+    0.27,
+    2024
+   ],
+   "TUN": [
+    0.15,
+    2024
+   ],
+   "WSM": [
+    0.27,
+    2024
+   ],
+   "KNA": [
+    0.33,
+    2024
+   ],
+   "SRB": [
+    0.15,
+    2024
+   ],
+   "ROU": [
+    0.16,
+    2024
+   ],
+   "PER": [
+    0.295,
+    2024
+   ],
+   "OMN": [
+    0.15,
+    2024
+   ],
+   "SMR": [
+    0.17,
+    2024
+   ],
+   "SGP": [
+    0.17,
+    2024
+   ],
+   "CAN": [
+    0.25981152,
+    2025
+   ],
+   "MEX": [
+    0.3,
+    2025
+   ],
+   "ISL": [
+    0.2,
+    2025
+   ],
+   "AUS": [
+    0.3,
+    2025
+   ],
+   "FIN": [
+    0.2,
+    2025
+   ],
+   "CRI": [
+    0.3,
+    2025
+   ],
+   "CHL": [
+    0.27,
+    2025
+   ],
+   "AUT": [
+    0.23,
+    2025
+   ],
+   "LVA": [
+    0.2,
+    2025
+   ],
+   "ISR": [
+    0.23,
+    2025
+   ],
+   "NZL": [
+    0.28,
+    2025
+   ],
+   "POL": [
+    0.19,
+    2025
+   ],
+   "USA": [
+    0.25569714,
+    2025
+   ],
+   "CHE": [
+    0.19607821,
+    2025
+   ],
+   "SWE": [
+    0.20600000000000002,
+    2025
+   ],
+   "DNK": [
+    0.22,
+    2025
+   ],
+   "SVK": [
+    0.24,
+    2025
+   ],
+   "BEL": [
+    0.25,
+    2025
+   ],
+   "EST": [
+    0.22,
+    2025
+   ],
+   "PRT": [
+    0.305,
+    2025
+   ],
+   "ESP": [
+    0.25,
+    2025
+   ],
+   "NLD": [
+    0.258,
+    2025
+   ],
+   "GRC": [
+    0.22,
+    2025
+   ],
+   "TUR": [
+    0.25,
+    2025
+   ],
+   "LUX": [
+    0.23870000000000002,
+    2025
+   ],
+   "GBR": [
+    0.25,
+    2025
+   ],
+   "LTU": [
+    0.16,
+    2025
+   ],
+   "KOR": [
+    0.264,
+    2025
+   ],
+   "NOR": [
+    0.22,
+    2025
+   ],
+   "JPN": [
+    0.2974,
+    2025
+   ],
+   "ITA": [
+    0.2781,
+    2025
+   ],
+   "SVN": [
+    0.22,
+    2025
+   ],
+   "IRL": [
+    0.125,
+    2025
+   ],
+   "HUN": [
+    0.09,
+    2025
+   ],
+   "DEU": [
+    0.30058461999999997,
+    2025
+   ],
+   "FRA": [
+    0.3613,
+    2025
+   ],
+   "CZE": [
+    0.21,
+    2025
+   ],
+   "COL": [
+    0.35,
+    2025
+   ]
+  },
+  "as_of": "statutory rates, year 2025",
+  "retrieved": "2026-11-10 02:14 UTC",
+  "url": "https://www.oecd.org/en/publications/corporate-tax-statistics-2024_9c27d6e8-en/full-report/statutory-corporate-income-tax-rates_440f9286.html",
+  "api": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/all?startPeriod=2022&dimensionAtObservation=AllDimensions"
+ },
+ "yields": {
+  "values": {
+   "United States": {
+    "yield": 0.04878999999999999,
+    "date": "Nov/10"
+   },
+   "United Kingdom": {
+    "yield": 0.051308,
+    "date": "Nov/09"
+   },
+   "Japan": {
+    "yield": 0.026709999999999998,
+    "date": "Nov/10"
+   },
+   "Australia": {
+    "yield": 0.0499,
+    "date": "Nov/10"
+   },
+   "Germany": {
+    "yield": 0.032654,
+    "date": "Nov/09"
+   },
+   "Brazil": {
+    "yield": 0.15164,
+    "date": "Nov/09"
+   },
+   "Russia": {
+    "yield": 0.1664,
+    "date": "Nov/09"
+   },
+   "India": {
+    "yield": 0.07178,
+    "date": "Nov/09"
+   },
+   "Canada": {
+    "yield": 0.03658,
+    "date": "Nov/09"
+   },
+   "Italy": {
+    "yield": 0.043074,
+    "date": "Nov/09"
+   },
+   "France": {
+    "yield": 0.04745,
+    "date": "Nov/09"
+   },
+   "South Africa": {
+    "yield": 0.08410000000000001,
+    "date": "Nov/09"
+   },
+   "China": {
+    "yield": 0.015975,
+    "date": "Nov/10"
+   },
+   "Switzerland": {
+    "yield": 0.00457,
+    "date": "Nov/09"
+   },
+   "Mexico": {
+    "yield": 0.09085000000000001,
+    "date": "Nov/09"
+   },
+   "Netherlands": {
+    "yield": 0.03354,
+    "date": "Nov/09"
+   },
+   "New Zealand": {
+    "yield": 0.046369999999999995,
+    "date": "Nov/10"
+   },
+   "Portugal": {
+    "yield": 0.03692,
+    "date": "Nov/09"
+   },
+   "South Korea": {
+    "yield": 0.03849,
+    "date": "Nov/10"
+   },
+   "Spain": {
+    "yield": 0.03821,
+    "date": "Nov/09"
+   },
+   "Greece": {
+    "yield": 0.0409,
+    "date": "Nov/09"
+   },
+   "Turkey": {
+    "yield": 0.35914999999999997,
+    "date": "Nov/09"
+   },
+   "Finland": {
+    "yield": 0.03651,
+    "date": "Nov/09"
+   },
+   "Lithuania": {
+    "yield": 0.04242,
+    "date": "Nov/09"
+   },
+   "Norway": {
+    "yield": 0.04317,
+    "date": "Nov/09"
+   },
+   "Poland": {
+    "yield": 0.06168,
+    "date": "Nov/09"
+   },
+   "Romania": {
+    "yield": 0.0707,
+    "date": "Nov/09"
+   },
+   "Slovakia": {
+    "yield": 0.0418,
+    "date": "Nov/09"
+   },
+   "Slovenia": {
+    "yield": 0.03778,
+    "date": "Nov/09"
+   },
+   "Sweden": {
+    "yield": 0.029449999999999997,
+    "date": "Nov/09"
+   },
+   "Hungary": {
+    "yield": 0.05345,
+    "date": "Nov/09"
+   },
+   "Iceland": {
+    "yield": 0.06841,
+    "date": "Nov/09"
+   },
+   "Ireland": {
+    "yield": 0.03412,
+    "date": "Nov/09"
+   },
+   "Austria": {
+    "yield": 0.035089999999999996,
+    "date": "Nov/09"
+   },
+   "Belgium": {
+    "yield": 0.042190000000000005,
+    "date": "Nov/09"
+   },
+   "Croatia": {
+    "yield": 0.038473,
+    "date": "Nov/06"
+   },
+   "Czech Republic": {
+    "yield": 0.051050000000000005,
+    "date": "Nov/09"
+   },
+   "Denmark": {
+    "yield": 0.03074,
+    "date": "Nov/09"
+   },
+   "Euro area": {
+    "yield": 0.0384,
+    "date": "Nov/06"
+   },
+   "Peru": {
+    "yield": 0.062214,
+    "date": "Nov/09"
+   },
+   "Chile": {
+    "yield": 0.0593,
+    "date": "Nov/09"
+   },
+   "Colombia": {
+    "yield": 0.12791,
+    "date": "Nov/09"
+   },
+   "Singapore": {
+    "yield": 0.02121,
+    "date": "Nov/10"
+   },
+   "Taiwan": {
+    "yield": 0.0191,
+    "date": "Nov/10"
+   },
+   "Thailand": {
+    "yield": 0.01983,
+    "date": "Nov/10"
+   },
+   "Vietnam": {
+    "yield": 0.045759999999999995,
+    "date": "Nov/10"
+   },
+   "Hong Kong": {
+    "yield": 0.03677,
+    "date": "Nov/10"
+   },
+   "Indonesia": {
+    "yield": 0.07693,
+    "date": "Nov/09"
+   },
+   "Israel": {
+    "yield": 0.041319999999999996,
+    "date": "Nov/09"
+   },
+   "Malaysia": {
+    "yield": 0.038512,
+    "date": "Nov/06"
+   },
+   "Pakistan": {
+    "yield": 0.12680999999999998,
+    "date": "Nov/09"
+   },
+   "Philippines": {
+    "yield": 0.08006,
+    "date": "Nov/10"
+   },
+   "Zambia": {
+    "yield": 0.1475,
+    "date": "Nov/09"
+   },
+   "Kenya": {
+    "yield": 0.12476000000000001,
+    "date": "Nov/09"
+   },
+   "Nigeria": {
+    "yield": 0.16846,
+    "date": "Nov/06"
+   }
+  },
+  "retrieved": "2026-11-10 02:14 UTC",
+  "url": "https://tradingeconomics.com/bonds"
+ }
+}
